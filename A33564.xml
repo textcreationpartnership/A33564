@@ -1408,7 +1408,7 @@ The numbers being orderly placed as is direct<g ref="char:EOLhyphen"/>ed in the 
                   <div n="1" type="proposition">
                      <head>
                         <hi>PROP. I.</hi> To Measure a long Square.</head>
-                     <figure/>
+                     <p>THis Figure <figure/> by Geo<g ref="char:EOLhyphen"/>metricians is called a Rectan<g ref="char:EOLhyphen"/>gular Paralelo<g ref="char:EOLhyphen"/>gram, and it may very fitly be represented by a long square Table, or a long Board, or the like, as the figure A, B, C, D, in the Margent, and to find out its Content the Rule is</p>
                      <p>Multiply the length of it in Feet, or Inches, by the breadth of it in Feet, or in Inches, and the product will give you the true Superficial Con<g ref="char:EOLhyphen"/>tent of it in Feet or Inches.</p>
                      <pb n="45" facs="tcp:51833:32"/>
                      <p>
@@ -1470,7 +1470,10 @@ half the base of a Rectangular Triangle (which is all one) the product will be t
                      <head>
                         <hi>PROP. III.</hi> To find the Content of any plain Triangle, not Rectangular.</head>
                      <p>THE best and easiest way is to let fall a perpendicular, upon the longest side from the angle that is opposite to it, which will di<g ref="char:EOLhyphen"/>vide it into two Right-angled plain Triangles, As, suppose there were given the plain Trian<g ref="char:EOLhyphen"/>gle ABC, as followeth,</p>
-                     <figure/>
+                     <p>
+                        <pb n="51" facs="tcp:51833:35"/>
+                        <figure/>
+                     </p>
                      <p>Here the side AB, being the longest side, I let fall a perpendicular from its opposite angle at C, which falleth upon D, in the line AB, so is the line CD the nearest distance between the angular point C, and the line AB, and divideth the given Triangle ABC, into two Right-an<g ref="char:EOLhyphen"/>gled Triangles, <hi>(viz.)</hi> ADC and CDB; and if you find the Content of these two Right-angled Triangles (according to the directions in the second proposition) and add them together, their sum will be the Content of the given Tri<g ref="char:EOLhyphen"/>angle ABC. But it may be more Artificially found out thus,</p>
                      <p>Multiply half the line CD, into the whole line AB, the product will give the Content of the Triangle which was sought, or if you mul<g ref="char:EOLhyphen"/>tiply the whole line CD, into half the line AB, the product will be the Content of the given Triangle, which is very plain from a due consi<g ref="char:EOLhyphen"/>deration of the method used in solving the se<g ref="char:EOLhyphen"/>
                         <gap reason="illegible" resp="#APEX" extent="1+ letters">
@@ -1511,7 +1514,10 @@ Divide it into two oblique Triangles, by drawing a line from any one of the angl
                         <hi>Example.</hi>
                      </p>
                      <p>In the following Trapezium ABCD, draw the base AC, which suppose to be 9.5 Feet, then let fall the perpendicular at D, which let be 3.45 Feet, and that at B 4.25 Feet, the sum of the said perpendiculars is 7.7 half of which is 3.85, by which if the common base AC be mul<g ref="char:EOLhyphen"/>tiplyed, the product (which is) 36.575 is the content of the Trapezium required Or if you multiply 7.7 the sum of the perpendiculars by half of the common base 9.5, which is 4.75 the product will be the same. See the follow<g ref="char:EOLhyphen"/>ing work.</p>
-                     <figure/>
+                     <p>
+                        <pb n="54" facs="tcp:51833:37"/>
+                        <figure/>
+                     </p>
                      <p>
                         <gap reason="math">
                            <desc>〈 math 〉</desc>
@@ -1524,7 +1530,9 @@ Divide it into two oblique Triangles, by drawing a line from any one of the angl
                         <hi>PROP. V.</hi> To find the Content of any regular Polygon.</head>
                      <p>A Regular Polygon is a plane figure consist<g ref="char:EOLhyphen"/>ing of equal sides and equal Angles, <hi>viz.</hi> a Pentagon, consisting of 5 equal sides, and 5 equal Angles; an Hexagon, consisting of 6 equal sides, and 6 equal Angles, an Heptagon of seven equal sides, an Octogon of eight, <hi>&amp;c.</hi> and to measure any 1 of these Regular planes, do thus draw a line from the Centre of the figure to the middle of any one of the sides, and mul<g ref="char:EOLhyphen"/>tiply that line into half the sum of the sides, and the product thence arising is the content of the given plane.</p>
                      <p>I shall give you an Example of this in the Mensuration of an Hexagon, or plane of 6 equal sides.</p>
-                     <figure/>
+                     <p>Let there be given the Hexagon ABCDEF, having the length of each side 30 then will the length of the <figure/> perpendicular GH be 26 <hi>fere,</hi> now there being in all 6 sides, and each of them in length 30, the sum of them all is 180 the half of which is 90, which being mul<g ref="char:EOLhyphen"/>tiplyed
+<pb n="56" facs="tcp:51833:38"/>
+by 26, the product will be 2340, which is the content of the given Hexagon.</p>
                      <p>The Reason of this manner of working is very plain, if from the Centre you draw the lines GA, and GB, thereby making the Trian<g ref="char:EOLhyphen"/>gle GAB, whose content (by the third propo<g ref="char:EOLhyphen"/>sition) is found by multiplying the perpendicular GH into half the side AB, <hi>viz.</hi> into HA, or HB, but there are 6 such Triangles in the gi<g ref="char:EOLhyphen"/>ven Polygon; therefore GH, multiplied into 6 times HB, produceth the content required.</p>
                   </div>
                   <div n="6" type="proposition">
@@ -1532,7 +1540,9 @@ Divide it into two oblique Triangles, by drawing a line from any one of the angl
                         <hi>PROP. VI.</hi> To find the Content of any Irregu<g ref="char:EOLhyphen"/>lar Polygon.</head>
                      <p>LET it be Required to measure the following Figure ABCDEFGHI.</p>
                      <p>First take Care that the whole plane be di<g ref="char:EOLhyphen"/>vided in Trapeziums and Triangles according to your own Fancy, and as the nature of the plane will bear, and then measure those Trape<g ref="char:EOLhyphen"/>ziums and Triangles, as is directed in the third and fourth Propositions before going, and add the several contents together, so will the sum give you the whole content of that Irregular Polygon.</p>
-                     <figure/>
+                     <p>As in this Example, first I draw the lines AC, and DH, and EG, so is the whole figure divided <figure/>
+                        <pb n="57" facs="tcp:51833:38"/>
+into the Trapeziums ABCI, and CIHD, and DHGE, and the Triangle EGF, the contents of which being severally found out by the third and fourth Proposition, the sum of them will be the content of the whole figure.</p>
                   </div>
                   <div n="7" type="proposition">
                      <head>
@@ -1544,7 +1554,7 @@ the most exact, who makes it to be as 1, is to 3.14159265358979323846 <hi>&amp;c
                      <p>As 1. is to 3.1416</p>
                      <p>So is the Diameter of any Circle,</p>
                      <p>To its Circumference.</p>
-                     <figure/>
+                     <p>In the Circle described in the Margent, the Diameter AC is 28, I demand what <figure/> is the circumference ABCD?</p>
                      <p>To Answer which I say by the propor<g ref="char:EOLhyphen"/>tion foregoing; As 1 is to 3.1416, so is 28 the diameter to 87.9648, which is the circumference ABCD. The work fol<g ref="char:EOLhyphen"/>loweth.</p>
                      <p>
                         <gap reason="math">
@@ -1675,7 +1685,7 @@ height is 54; I demand the solid content of such a Pyramid?</p>
                      <pb n="67" facs="tcp:51833:43"/>
                      <head>
                         <hi>PROP. XIII.</hi> To measure the Frustum of a Py<g ref="char:EOLhyphen"/>ramid or Cone.</head>
-                     <figure/>
+                     <p>THE Frustum here given <figure/> to be measured is AGEF, the side of the greater base at A being 24 Inches, and the side of the lesser base at E being 8 inches, and the length of it I, C, 20 foot equal to E B, or F O.</p>
                      <p>It is evident that if I find the solidi<g ref="char:EOLhyphen"/>ty of the whole Pyramid AGD, &amp; also the solidity of the lesser Pyramid E F D, and then substract the content of E F D, from the content of A G D, that there will re<g ref="char:EOLhyphen"/>main the solidity of the Frustum A G E F; and certainly this way of measuring the Frustum of a Pyramid or Cone, is the most exact of any; And it may be easily measured thus, first of all find
 <pb n="68" facs="tcp:51833:44"/>
 out the height of the whole Pyramid C D, which you may do by the following proportion, <hi>viz.</hi>
@@ -2349,7 +2359,7 @@ Geom. it is demonstrated, and proved that the Square made of the Hypothenuse, or
                         <hi>As for Example.</hi>
                      </p>
                      <p>In the Triangle ABC, the Base AB is 48, and the perpendicular BC is 36, now I demand the length of the Hypothenuse AC.</p>
-                     <figure/>
+                     <p>To find out <figure/> an answer to this, first, I square the base AB, (48) which is 2304, then square the Perpendicular (36) and its square is 1296, the sum of which two squares is 3600, which is equal to the Square of the Hypothenuse AC, therefore the square Root of 3600 will give the length of AC, which is 60.</p>
                   </div>
                   <div n="4" type="proposition">
                      <head>PROP. IV.</head>
